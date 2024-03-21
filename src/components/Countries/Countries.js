@@ -11,7 +11,7 @@ const Countries = () => {
     },[])
     return (
         <div className=''>
-            <h1>wellcome to all countries in the world:{countri.length}</h1>
+            {/* <h1>wellcome to all countries in the world:{countri.length}</h1> */}
           
             <div className='countries-container'>
             {
